@@ -1,0 +1,25 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+body {
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+}
+
+#team img {
+    display: block;
+    margin: 0 auto;
+    padding-left: 48px;
+
+}
+#container-content .introducao, .conclusao {
+    padding: 10px 50px;
+    text-align: justify;
+    line-height: 2em;
+}
+
+#container-content ul {
+    padding: 10px 100px;
+    line-height: 2em;
+}
+

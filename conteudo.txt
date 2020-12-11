@@ -1,0 +1,195 @@
+Page 1 - Index
+
+Bem-vindo a ChemoVector! Nossa empresa oferece consultoria e novas tecnologias em controle de qualidade para indústrias, universidades, institutos de pesquisa, entre outros. Nós possuímos uma equipe pronta para atuar em uma ampla faixa de aplicações, garantindo soluções analíticas de baixo custo, rápidas e confiáveis.
+
+Page 2 - Quem somos
+
+A CHEMOVECTOR é uma empresa de consultoria que oferece soluções analíticas para controle de qualidade e otimização de processos analíticos. Nós trabalhamos in situ e online em sete diferentes campos:
+
+Consultoria Estatística
+Análise Multivariada
+Processamento de Imagens
+Planejamento de Experimentos
+Controle Estatístico de Processo
+Cursos e Treinamentos em Quimiometria
+Desenvolvimento de Softwares Analíticos
+Para isso, nós somos compostos por uma equipe altamente qualificada e infraestrutura de última geração, incluíndo supercomputação pra aplicações com Big Data. Nós possuímos experiência em diferentes campos de atuação, tais como bioespectroscopia, instrumentação analítica, química clínica, controle de qualidade farmacêutico, nanotecnologia, análise de alimentos e ciências forences.
+
+Estamos localizados no INOVA (IMD-CIVT/UFRN).
+
+Nos contate hoje para discutirmos como podemos lhe ajudar a atingir melhores resultados. Nos deixe revisar seus dados e daremos um feedback sobre como podemos juntos atender melhor suas necessidades. Um pouco de consultoria e análise pode fazer a diferença.
+
+Page 3 - Serviços
+
+Consultoria Estatística
+
+- Não desperdice dados! O poder da estatística pode revelar muitas informações sobre seus dados, tais como tendências, variâncias e valores anômalos.
+
+Análise Multivariada
+
+- Construção de modelos quimiométricos de primeira, segunda e terceira ordem. Tais modelos incluem calibração multivariada (CLS, MLR, PCR, PLS), análise exploratória (HCA, PCA), classificação multivariada (PLS-DA, PCA-LDA/QDA/SVM, GA-LDA/QDA/SVM, classificador Bayesiano), resolução de curva multivariada (MCR-ALS), padronização de instrumentos (transferência de calibração e classificação), entre outros. Para isso, nós trabalhamos com os ambientes MATLAB, R e Scilab; bem como com softwares próprios.
+
+Processamento de Imagens
+
+- Imagens são uma ferramenta poderosa nas ciências analíticas. Desde a simplicidade das imagens RGB aos hyperdados obtidos através de imagens hyperespectrais, estas aplicações são caracterizadas por terem alta sensibilidade e acessibilidade para análise de diferentes materiais. Nós ofereçemos processamento e análise de imagens RGB, multiespectrias e hyperespectrais para aplicações qualitativas e quantitativas.
+
+Planejamento de Experimentos
+
+- Planejamento de experimentos (DoE) é uma importante ferramenta para otimização de qualquer processo produtivo, no qual os pesos de cada fator que contribui para esse processo é analisado simultaneamente, resultando no melhor desempenho possível, seja em termos de lucro, redução de tempo ou aumento de qualidade.
+
+Controle Estatístico de Processos
+
+- Controle Estatístico de Processos (SPC) é uma ferramenta importante para monitoramento de qualidade de processos industriais. Isso é feito através do uso de métodos quimiométricos associados com redes de sensores, garantido um monitoramento automático e em tempo real de todo o processo produtivo.
+
+Cursos e Treinamentos em Quimiometria
+
+- Nós ofereçemos cursos e treinamentos teóricos e práticos em Quimiometria para empresas, indústrias, centros de pesquisas e universidades. Estes cursos incluem: estatística básica, pré-processamento de sinais, calibração multivariada, classificação multivariada, processamento de imagens, análise de dados de segunda-ordem, resolução de curva multivariada, planejamento de experimentos e validação de métodos.
+
+Desenvolvimento de Softwares Analíticos
+
+- Nós desenvolvemos softwares amigáveis para Quimiometria ou aplicações analíticas sob demanda.
+
+Page 4 - Publicações
+
+Veja algumas publicações científicas que nosso time contribuiu:
+
+Bioespectroscopia
+
+Spectroscopy with computational analysis in virological studies: A decade (2006–2016).
+
+Differential diagnosis of Alzheimer’s disease using spectrochemical analysis of blood.
+
+An imaging dataset of cervical cells using scanning near-field optical microscopy coupled to an infrared free electron laser
+
+Comparison of multivariate classification algorithms using EEM fluorescence data to distinguish Cryptococcus neoformans and Cryptococcus gattii pathogenic fungi
+
+Spectroscopy of blood samples for the diagnosis of endometrial cancer and classification of its different subtypes
+
+Variable selection with support vector machine for discriminating Cryptococcus fungus species based on ATR-FTIR spectroscopy.
+
+Evaluation of the bony repair in rat cranial defect using near infrared reflectance spectroscopy and discriminant analysis.
+
+LDA vs. QDA for FT-MIR prostate cancer tissue classification.
+
+Imaging cervical cytology with scanning near-field optical microscopy (SNOM) coupled with an IR-FEL.
+
+Attenuated Total Reflection Fourier Transform-Infrared (ATR-FTIR) spectroscopy as a new technology for discrimination between Cryptococcus neoformans and Cryptococcus gattii.
+
+ATR-FTIR and multivariate analysis as a screening tool for cervical cancer in women from northeast Brazil: a biospectroscopic approach.
+
+Análise Farmacêutica
+
+Colorimetric Determination of Ascorbic Acid Based on Its Interfering Effect in the Enzymatic Analysis of Glucose: An Approach Using Smartphone Image Analysis.
+
+The Use of Near Infrared Spectroscopy and Multivariate Calibration for Determining the Active Principle of Olanzapine in a Pharmaceutical Formulation.
+
+Multivariate Control Charts for Simultaneous Quality Monitoring of Isoniazid and Rifampicin in a Pharmaceutical Formulation Using a Portable Near Infrared Spectrometer.
+
+Dissolution testing of isoniazid, rifampicin, pyrazinamide and ethambutol tablets using near-infrared spectroscopy (NIRS) and multivariate calibration.
+
+Non-destructive detection of adulterated tablets of glibenclamide using NIR and solid-phase fluorescence spectroscopy and chemometric methods.
+
+Ciências Forense
+
+FTIR microspectroscopy coupled with variable selection methods for the identification of flunitrazepam in necrophagous flies.
+
+NIR analysis of hair samples as a possible forensic chemistry tool: identifying smoker and nonsmoker persons.
+
+Direct Quantitative Analysis of Cocaine from Thin Layer Chromatography plus Mobile Phone and Multivariate Calibration: A Cost-effective and Rapid Method.
+
+Near infrared spectroscopy as an emerging tool for forensic entomotoxicology.
+
+Nanotecnologia
+
+Dual Role of a Ricinoleic Acid Derivative in the Aqueous Synthesis of Silver Nanoparticles.
+
+Anti-inflammatory, analgesic and anti-tumor properties of gold nanoparticles.
+
+Doxycycline conjugated with polyvinylpyrrolidone-encapsulated silver nanoparticles: a polymer’s malevolent touch against Escherichia coli.
+
+Química Clínica
+
+Determination of serum protein content using cell phone image analysis.
+
+Determination and analytical validation of creatinine content in serum using image analysis by multivariate transfer calibration procedures.
+
+A colorimetric microwell method using a desktop scanner for biochemical assays.
+
+Química Analítica
+
+Integrating a Smartphone and Molecular Modeling for Determining the Binding Constant and Stoichiometry Ratio of the Iron(II)-Phenanthroline Complex: An Activity for Analytical and Physical Chemistry Laboratories.
+
+Quantification of Synthetic Amino-Nitroquinoxaline Dyes: An Approach Using Image Analysis.
+
+Low-Cost Method for Quantifying Sodium in Coconut Water and Seawater for the Undergraduate Analytical Chemistry Laboratory: Flame Test, a Mobile Phone Camera, and Image Processing.
+
+Phenolic adhesives based on eucalyptus pyrolytic oil: Effect of urea addition on synthesis and properties.
+
+Near-infrared spectroscopy and wavelength selection for estimating basic density in Mimosa tenuiflora [Willd.] Poiret wood.
+
+Instrumentação Analítica
+
+A Low-Cost Video-based Reflectometer for Selective Detection of Cu2+ Using Paper-based Colorimetric Sensors.
+
+A low-cost microcontrolled photometer with one color recognition sensor for selective detection of Pb2+ using gold nanoparticles.
+
+Análise de Alimentos
+
+Determination of geographical origin and ethanol content in Brazilian sugarcane spirit using near-infrared spectroscopy coupled with discriminant analysis.
+
+Análise de Combustíveis
+
+MCR-ALS and PLS coupled to NIR/MIR spectroscopies for quantification and identification of adulterant in biodiesel-diesel blends.
+
+Quimiometria
+
+First-Order Multivariate Calibration: Data, Algorithms and Analytical Applications.
+
+Principal Component Analysis with Linear and Quadratic Discriminant Analysis for Identification of Cancer Samples Based on Mass Spectrometry.
+
+Comparing unfolded and two-dimensional discriminant analysis and support vector machines for classification of EEM data.
+
+Capas
+
+Patentes
+
+Patentes
+
+C.L.M. Morais, K.M.G. Lima. Algorithm for removing spectral cosmic rays interfering. Patent: Computer Software, INPI – Instituto Nacional de Propriedade Industrial, Nº BR512014001596-3, 2014.
+
+C.L.M. Morais, K.M.G. Lima. Biochemical Image Analysis. Patent: Computer Software, INPI – Instituto Nacional de Propriedade Industrial, Nº BR512014001385-5, 2014.
+
+Eventos
+
+Curso de Calibração Multivariada
+
+26 de Agosto de 2017. 08:00 – 18:00 h.
+Sala A402, 3º andar. CIVIT-UFRN, Natal/RN, Brasil.
+
+Conteúdo:
+
+Calibração Univariada
+Calibração Multivariada:
+Classical Least Squares (CLS)
+Indirect Classical Least Squares (ICLS)
+Multiple Linear Regression (MLR)
+Principal Component Regression (PCR)
+Partial Least Squares (PLS)
+Validação de Método
+EVENTOS ANTERIORES
+
+Curso – Quimiometria 1: Calibração e Classificação Multivariada
+
+15 a 18 de Maio, 2017. 15:00 – 18:00 h
+Sala A402, 3º andar. CIVT-UFRN, Natal/RN, Brasil.
+
+Conteúdo:
+
+Introdução a Quimiometria, carregando dados e pré-processamento de sinais.
+Análise exploratória e classificação multivariada.
+Calibração multivariada e validação de método.
+
+Contato
+
+Entre em contato para dúvidas ou orçamentos!
+Formulário

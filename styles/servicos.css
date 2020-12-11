@@ -1,0 +1,34 @@
+
+#service-description img{
+    margin: auto;
+    padding: 50px 350px;
+    
+}
+
+
+#service-description {
+    margin: 50px;
+    padding: 50px 50px;
+    
+}
+
+#service-description h1 {
+    font-size: 1.5em;
+    padding: 10px 0;
+    
+}
+
+#service-description p {
+    text-align: justify;
+    line-height: 2em;
+    
+}
+
+@media only screen and (min-width: 1500px){
+    #service-description img {
+        margin: 0 auto;
+        padding-left: 700px;
+ 
+    }
+
+}

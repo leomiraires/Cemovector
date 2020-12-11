@@ -1,0 +1,36 @@
+#eventos {
+    width: 1024px;
+    float: left;
+}
+
+#text-evento {
+    height: 400px;
+    background-image: url("../Figures/eventos.png");
+    opacity: 0.6;
+}
+
+#text-evento p {
+    color: rgb(143, 0, 0);
+    font-size: 2em;
+    font-weight: bolder;
+    text-align: center;
+    padding: 150px 100px;
+ 
+}
+
+#eventos-conteudo {
+    text-align: center; 
+    padding: 10px 50px;
+    line-height: 2em;
+
+}
+
+#eventos-conteudo h1 {
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+
+#eventos-conteudo h2 {
+    font-size: 1em;
+    font-weight: bolder;
+}

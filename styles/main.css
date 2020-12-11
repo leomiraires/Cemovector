@@ -1,0 +1,152 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+
+#topo {
+    padding: 15px;
+    text-align: center;
+    
+}
+
+#navegacao span {
+    color: #fff;
+    background-color:  #970000;
+    padding: 5px;
+    border-radius: 0.5em;
+}
+
+#logo, #navegacao {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    padding: 8px 10px;
+    font-weight: bolder;
+    color: #000;
+}
+
+a:hover {
+    color: #d30000;
+}
+
+
+#bemvindo {
+    height: 400px;
+    background-image: url("../Figures/Spectra2.jpg");
+}
+
+#bemvindo p {
+    color: floralwhite;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 150px 100px;
+    line-height: 2em;
+}
+
+#menu_rapido{
+    display: flex;
+}
+
+#menu_rapido1, #menu_rapido2, #menu_rapido3 {
+    width: 330px;
+    margin-left: 60px;
+    padding: 15px;
+    text-align: justify;
+    justify-content: center;
+}
+
+#menu_rapido h1, h2 {
+    font-size: 1.2em;
+    padding-left: 10px;
+}
+
+#menu_rapido p {
+    padding: 10px;
+    text-align: justify;
+}
+
+#menu_rapido2 h2 {
+    padding-top: 50px;
+}
+
+#menu_rapido3 h2 {
+    padding-top: 30px;
+}
+
+#menu_rapido  a img:hover{
+    opacity: 0.7;
+    transition: 0.7s;
+}
+
+#localizacao {
+    background-color: rgb(44, 44, 44);
+}
+
+#endereco {
+    padding: 20px 0 20px 80px;
+    font-weight: bolder;
+    color: #fff;
+}
+
+#mapa{ 
+    display: flex;  
+    background-color: rgb(44, 44, 44);
+    padding: 10px 80px;    
+}
+
+.maps {
+    padding-right: 25px;
+}
+
+.menu-secundario {
+    font-size: 1em;
+    display: inline;
+
+    padding-left: 15px;
+
+}
+
+.menu-secundario a {
+    color: #fff;
+}
+
+.menu-secundario a:hover {
+    color: #970000;
+}
+
+
+footer {
+    text-align: center;
+    font-weight: bolder;
+}
+
+@media only screen and (min-width: 1500px){
+    #endereco {
+        text-align: center;
+        padding: 20px 0 20px 80px;     
+    }
+
+    #mapa{ 
+        display: flex;  
+        padding: 10px 500px;    
+    }
+    
+    #menu_rapido1, #menu_rapido2, #menu_rapido3 {
+        margin: 0 auto;
+        text-align: justify;
+        justify-content: center;
+    }  
+
+}
